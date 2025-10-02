@@ -22,7 +22,7 @@ From the cloud dashboard, a user can press a button to activate the correspondin
 ## Files
 
 - **Circuit Plan**
-  - `circuit_plan/PlantWatering_Schematic.pdf` — full circuit schematic  
+  - `circuit_plan/Schaltplan_V1.0.pdf` — full circuit schematic  
 
 - **Photos**
   - `images/LTSpice_Simulation` — Simulation setup in LTSpice
